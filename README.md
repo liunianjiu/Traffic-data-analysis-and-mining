@@ -1,2 +1,4 @@
-# Traffic-data-analysis-and-mining
-交通数据分析挖掘
+##需要学习的内容
+Java
+hadoop
+mysql
